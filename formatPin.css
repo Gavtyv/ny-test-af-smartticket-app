@@ -33,7 +33,21 @@ list-style: none;
     background: #fff;  
     border: 1px solid #f9f9f9;  
     border-radius: 5px;  
-    }  
+    }
+    #bleDeviceList{
+    float: left;  
+    margin: 0 5px 5px 0;  
+    width: 240x;  
+    height: 60px;  
+    font-size: 24px;
+    line-height: 60px;  
+    text-align: center;  
+    background: #fff;  
+    border: 1px solid #f9f9f9;  
+    border-radius: 5px; 
+    font-size: 20px; 
+
+    }
         .capslock, .tab, .left-shift, .clearl, .switch {  
         clear: left;  
         }  
