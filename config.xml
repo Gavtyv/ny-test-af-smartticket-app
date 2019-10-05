@@ -37,9 +37,6 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
-		<icon src= "icon.png" />
-		<splash src="splash.png" />
-		
     </platform>
 	<platform name="ios">
         <preference name="Orientation" value="all" />
